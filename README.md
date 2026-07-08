@@ -2,7 +2,8 @@
 
 A browser-based interactive HMI dashboard prototype, built to demonstrate interface design principles for in-vehicle digital systems.
 
-**[→ Live Demo](https://jnagrur.github.io/autohmi)**
+**[→ Live Demo](jnagrur.github.io/autohmi)**
+**[→ Repo Link](https://github.com/JNagrur/autohmi)**
 
 ---
 
