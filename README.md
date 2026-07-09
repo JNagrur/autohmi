@@ -59,8 +59,6 @@ The design intentionally references automotive instrument cluster conventions �
 - CSS custom properties for theming
 - Google Fonts: Space Grotesk + Space Mono
 
-Kept dependency-free intentionally: HMI environments often run on constrained embedded systems where framework overhead matters.
-
 ---
 
 ## What I Would Build Next
@@ -76,4 +74,4 @@ Kept dependency-free intentionally: HMI environments often run on constrained em
 ## Author
 
 Jadeshwari Nagarur — Frontend Engineer & Interaction Designer  
-[LinkedIn](https://linkedin.com/in/jadeshwari-nagarur) · [GitHub](https://github.com/JNagrur)
+[GitHub](https://github.com/JNagrur)
